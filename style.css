@@ -29,18 +29,9 @@ a:active {
 text-decoration: none;
 } 
   
-.struktur {
-  position: center;
-}
-
-div {
-        display: grid;
-      place-items: center;
-}
 
 img {
-  width: 594px;
-  height: 420px;
+
   position: absolute;
   top: 50%;
   left: 50%;
