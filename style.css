@@ -1,0 +1,93 @@
+body {
+  background-color: dimgrey;
+  background-image: linear-gradient(darkgrey, dimgrey);
+  background-repeat: no-repeat;
+  height:666px;
+  background-size: cover;
+  color: black;
+}
+
+
+a:link {
+  color: black;
+text-decoration: none;
+}
+
+
+a:visited {
+  color: black;
+text-decoration: none;
+}
+
+a:hover {
+  color: black;
+text-decoration: none;
+}
+
+a:active {
+  color: black;
+text-decoration: none;
+} 
+  
+.struktur {
+  position: center;
+}
+
+div {
+        display: grid;
+      place-items: center;
+}
+
+img {
+  width: 594px;
+  height: 420px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.W{
+  font-family: times new roman;
+  font-size: 51px;
+    position: absolute;
+    top: 10%;
+    right: 50%;
+}
+
+.D{
+  font-family: times new roman;
+  font-size: 51px;
+    position: absolute;
+    top: 50%;
+    right: 25%;
+}
+
+.S{
+  font-family: times new roman;
+  font-size: 51px;
+    position: absolute;
+    bottom: 10%;
+    right: 50%;
+}
+
+.A{
+  font-family: times new roman;
+  font-size: 51px;
+    position: absolute;
+    top: 50%;
+    left: 25%;
+}
+
+h1{
+  font-family: times new roman;
+  font-size: 51px;
+    position: absolute;
+    top: 50%;
+   
+
+}
+
+
+       
+}
