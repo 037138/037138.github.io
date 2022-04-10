@@ -1,8 +1,8 @@
 body {
   background-color: dimgrey;
-  background-image: linear-gradient(pink, dimgrey);
+  background-image: linear-gradient(black, saddlebrown);
   background-repeat: no-repeat;
-  height:666px;
+  height:999px;
   background-size: cover;
   color: red;
 }
