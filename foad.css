@@ -1,10 +1,15 @@
 body {
-  background-color: dimgrey;
-  background-image: linear-gradient(black, saddlebrown);
-  background-repeat: no-repeat;
-  height:777px;
-  background-size: cover;
-  color: red;
+  background-color: black;
+
+
+  color: white;
 }
 
 
+.blink_me {
+  animation: blinker 0.3s linear infinite;
+}
+
+@keyframes blinker {  
+  50% { opacity: 0; }
+}
