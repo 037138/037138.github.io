@@ -38,7 +38,7 @@ div {
 }
 
 img {
-  width: 30.89%; /* set to your likings */
+  width: 30%; /* set to your likings */
 	height: auto;
   position: absolute;
   top: 50%;
@@ -53,7 +53,7 @@ img {
   font-family: times new roman;
   font-size: 51px;
     position: absolute;
-    top: 18.5%;
+    top: 10%;
     right: 50%;
 }
 
@@ -62,14 +62,14 @@ img {
   font-size: 51px;
     position: absolute;
     top: 50%;
-    right: 30.5%;
+    right: 25%;
 }
 
 .S{
   font-family: times new roman;
   font-size: 51px;
     position: absolute;
-    bottom: 18.5%;
+    bottom: 10%;
     right: 50%;
 }
 
@@ -78,7 +78,7 @@ img {
   font-size: 51px;
     position: absolute;
     top: 50%;
-    left: 30.5%;
+    left: 25%;
 }
 
 h1{
