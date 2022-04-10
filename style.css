@@ -38,13 +38,12 @@ div {
 }
 
 img {
-  width: 26%; /* set to your likings */
+  width: 594px; /* set to your likings */
 	height: auto;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  border: 5px solid pink;
 }
 
 
