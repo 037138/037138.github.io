@@ -1,0 +1,10 @@
+body {
+  background-color: dimgrey;
+  background-image: linear-gradient(pink, dimgrey);
+  background-repeat: no-repeat;
+  height:666px;
+  background-size: cover;
+  color: red;
+}
+
+
