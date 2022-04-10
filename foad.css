@@ -1,14 +1,14 @@
 body {
   background-color: black;
 
-font-size; large;
+
   color: white;
 }
 
 
 .blink_me {
   animation: blinker 0.3s linear infinite;
-font-size: 99px;
+font-size: 60px;
 
 }
 
@@ -25,4 +25,29 @@ text-align: center;
 h2 {
   font-family: "Times New Roman", Times, serif;
 	color: red;
+font-size: 44px;
+}
+
+h3 {
+  font-family: "Times New Roman", Times, serif;
+	color: white;
+font-size: 39px;
+}
+
+h4 {
+  font-family: "Times New Roman", Times, serif;
+	color: white;
+font-size: 30px;
+}
+
+p3 {
+  font-family: "Times New Roman", Times, serif;
+	color: white;
+font-size: 20px;
+}
+
+h5 {
+  font-family: "Times New Roman", Times, serif;
+	color: white;
+font-size: 24px;
 }
