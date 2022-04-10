@@ -8,6 +8,7 @@ body {
 
 .blink_me {
   animation: blinker 0.3s linear infinite;
+font-family: 'Courier New', monospace;
 font-size: 85px;
 
 }
@@ -23,7 +24,7 @@ text-align: center;
 }
 
 h2 {
-  font-family: "Times New Roman", Times, serif;
+  font-family: Helvetica, sans-serif;
 	color: red;
 font-size: 99px;
 }
@@ -35,7 +36,7 @@ font-size: 60px;
 }
 
 h4 {
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Brush Script MT", cursive;
 	color: white;
 font-size: 50px;
 }
@@ -61,11 +62,11 @@ font-size: 30px;
 p1 {
   font-family: "Times New Roman", Times, serif;
 	color: white;
-font-size: 25px;
+font-size: 30px;
 }
 
 h6 {
-  font-family: "Times New Roman", Times, serif;
+  font-family: Helvetica, sans-serif;
 	color: red;
 font-size: 75px;
 }
