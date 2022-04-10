@@ -1,15 +1,28 @@
 body {
   background-color: black;
 
-
+font-size; large;
   color: white;
 }
 
 
 .blink_me {
   animation: blinker 0.3s linear infinite;
+font-size: 99px;
+
 }
 
 @keyframes blinker {  
   50% { opacity: 0; }
+}
+
+body {
+
+text-align: center;
+
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+	color: red;
 }
